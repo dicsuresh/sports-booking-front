@@ -5,7 +5,7 @@ import logo from '../../public/logo.png'
 function Footer() {
     return (
         <footer className="bg-blue-400 ">
-            <div className="container mx-auto">
+            <div className="container mx-auto w-full h-full">
                 <div className="items-center gap-y-5 py16">
                     <div className="flex gap-1 items-center text-xl md:text-2xl font-bold">
                     <a href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
