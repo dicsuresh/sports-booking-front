@@ -15,7 +15,7 @@ function loginPage() {
                     <form className="">
                         
                         <h1 className='text-slate-200 font-bold text-4xl mb-4'>
-                            Registro
+                            Login
                         </h1>
                         <label htmlFor='username' className='text-slate-500 mb-2 block text-sm'>
                             Usuario:
